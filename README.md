@@ -1,4 +1,4 @@
-# SQL Alchemy Challenge
+# SparkSQL Challenge
 Rutgers Bootcamp Challenge 22 - PySpark
 
 ## Description
