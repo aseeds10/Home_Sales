@@ -27,7 +27,7 @@ This project utilizes SparkSQL to analyze home sales data and determine key metr
 ## Installation  
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/username/sparksql-challenge.git ```
+   git clone https://github.com/aseeds10/Home_Sales.git
 
 2. Open the Jupyter notebook file in Google Colab or a local Jupyter environment to run the code and view results.
 
